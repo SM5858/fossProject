@@ -26,7 +26,7 @@ The VS Code project is distributed across multiple repositories. Try to file the
 
 ### Look For an Existing Issue
 
-Before you create a new issue, please do a search in [open issues]([[https://github.com/microsoft/vscode/](https://github.com/SM5858/fossProject)](https://github.com/SM5858/fossProject/issues) to see if the issue or feature request has already been filed.
+Before you create a new issue, please do a search in [open issues] [(https://github.com/SM5858/fossProject)](https://github.com/SM5858/fossProject/issues) to see if the issue or feature request has already been filed
 
 
 If you cannot find an existing issue that describes your bug or feature, create a new issue using the guidelines below.
